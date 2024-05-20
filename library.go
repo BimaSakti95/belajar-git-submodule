@@ -7,3 +7,7 @@ func sayHello(name string) string {
 func sayGuest() string {
 	return "Hello"
 }
+
+func sum(a, b int) int {
+	return a + b
+}
