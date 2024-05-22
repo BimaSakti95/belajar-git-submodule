@@ -11,7 +11,3 @@ func isGood() string {
 func minus(a, b int) int {
 	return a - b
 }
-
-func multiple(a, b int) int {
-	return a * b
-}
